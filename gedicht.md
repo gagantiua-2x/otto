@@ -9,4 +9,4 @@ otto holt koks
 otto holt obst
 otto horcht
 otto: mops mops
-otto hofft
+otto hofft 
